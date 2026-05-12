@@ -25,7 +25,7 @@ This project analyzes a given website URL and generates a basic security report 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Vulnerability-Scanner/
